@@ -1,3 +1,5 @@
 1. Dasar Python
 2. Data Struktur Python
 3. Git
+4. Machine Learning
+5. Quis
