@@ -1,6 +1,6 @@
 1. Dasar Python
 2. Data Struktur Python
-3. Ok Git
-4. Machine Learning
-5. Quis
+3. Testing
+4. Git Hub & Git
+5. Machine Learning Oke
 
