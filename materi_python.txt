@@ -1,0 +1,2 @@
+1. Dasar Python
+2. Data Struktur Python
